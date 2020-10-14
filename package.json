@@ -1,0 +1,12 @@
+{
+  "name": "package-linker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cp-link" : "node scripts/cpLink.js",
+    "cp-unlink": "node scripts/cpUnLink.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
